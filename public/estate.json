@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Oceanfront Penthouse",
+      "segment_name": "Luxury",
+      "description": "A stunning penthouse with breathtaking views of the ocean.",
+      "price": "$5,000,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Miami Beach, FL",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471752845.jpg?k=69a45cf53c31b88f7d38bfb61019117611cc2d5f7c5e5337cd811b834a0c3bda&o=&hp=1"
+    },
+    {
+      "id": 2,
+      "estate_title": "Private Island Resort",
+      "segment_name": "Luxury",
+      "description": "A luxurious private island resort with top-notch amenities.",
+      "price": "$25,000,000",
+      "status": "sale",
+      "area": "10000 sq ft",
+      "location": "Bahamas",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn12FgxTB409-SR9gSI-gjyplUZ2EvfL99hQ&s"
+    },
+    {
+      "id": 3,
+      "estate_title": "Beachfront Villa",
+      "segment_name": "Luxury",
+      "description": "An elegant villa with direct access to the beach and modern amenities.",
+      "price": "$8,500,000",
+      "status": "sale",
+      "area": "4500 sq ft",
+      "location": "Malibu, CA",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://mianhatrang.com/wp-content/uploads/2023/02/MNT_Beachfront-Villa_1.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Modern Mansion",
+      "segment_name": "Luxury",
+      "description": "A contemporary mansion with state-of-the-art facilities and expansive living spaces.",
+      "price": "$12,000,000",
+      "status": "sale",
+      "area": "8000 sq ft",
+      "location": "Beverly Hills, CA",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2mWnEEqMIajfK6DPwDfr6BNfjmyGdDBdDw&s"
+    },
+    {
+      "id": 5,
+      "estate_title": "Luxury Resort Villa",
+      "segment_name": "Luxury",
+      "description": "A luxury resort villa with exclusive access to resort amenities and services.",
+      "price": "$3,500,000",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "Phuket, Thailand",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWi9pdiSXL7fMmpvaoqxbM52WpXZTBUte1SQ&s"
+    }
+  ]
+  
